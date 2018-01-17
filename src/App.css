@@ -1,0 +1,37 @@
+.App{
+  background-image: url('./fondImg.jpg');
+
+}
+
+.about-us{
+margin:0px 10px;
+padding:0px 76px;
+  width: auto;
+  height:auto;  
+  border-radius: 8px;
+  margin-top: 80px;
+  color:white;
+
+}
+.about-usl{  
+border:3px solid #1f451a;
+  width:130px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 8px;
+  background-color: #fce889;
+  color: #1f451a;
+ text-align: center;
+}
+
+.ApTitle{
+  text-align: center;
+  font-family: pp-sans-big-light, "Helvetica Neue", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 400px;
+  color:white;
+  margin: 40px 0px;
+  font-style: normal;
+}
+
